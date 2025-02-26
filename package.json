@@ -19,6 +19,8 @@
   "homepage": "https://github.com/JOAOZINHOMOTOROLA/3ano_exercicio02#readme",
   "description": "",
   "devDependencies": {
-    "sass": "^1.83.4"
+    "grunt": "^1.6.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "sass": "^1.84.0"
   }
 }
