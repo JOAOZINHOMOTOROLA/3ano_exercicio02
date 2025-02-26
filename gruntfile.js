@@ -12,5 +12,6 @@ module.exports = function(grunt) {
  
     grunt.loadNpmTask('grunt-contrib-sass');
  
+    
     grunt.registerTask('default', ['sass']);
 }
